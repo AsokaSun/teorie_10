@@ -1,2 +1,2 @@
 @extends('layout.app')
-#seection('title', '')
+#seection('title', 'Acasa')
